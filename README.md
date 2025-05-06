@@ -25,11 +25,12 @@ A data analysis project tracking global COVID-19 trends, including cases, deaths
 ```
 covid19-tracker/
 ├── data/
-│   └── owid-covid-data.csv       # Raw dataset
+│   └── owid-covid-data.csv       
 ├── notebooks/
-│   └── COVID-19_Analysis.ipynb   # Main analysis notebook
-├── visuals/                      # Generated plots
+│   └── COVID-19-Analysis.ipynb   
+├── visuals/                      
 │   ├── cases_over_time.png
+│   ├── deaths_over_time.png
 │   ├── vaccination_rates.png
 │   └── global_cases_map.html
 └── README.md
