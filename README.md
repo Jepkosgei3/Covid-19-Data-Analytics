@@ -39,7 +39,7 @@ covid19-tracker/
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/covid19-tracker.git](https://github.com/Jepkosgei3/Covid-19-Data-Analytics-.git)
+   git clone https://github.com/Jepkosgei3/Covid-19-Data-Analytics-.git
    cd Covid-19-Data-Analytics
    ```
 
