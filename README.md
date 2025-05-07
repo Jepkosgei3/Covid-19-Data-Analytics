@@ -75,7 +75,7 @@ covid19-tracker/
 
 | Cases Over Time | Vaccination Rates | World Map |
 |-----------------|-------------------|-----------|
-| ![Cases](visuals/cases_over_time.png) | ![Vaccines](visuals/vaccination_rates.png) | ![Map](https://i.imgur.com/JKkzXRQ.png) |
+| ![Cases](visuals/cases_over_time.png) | ![Vaccines](visuals/vaccination_rates.png) | ![Map](visuals/global_cases_map.png) |
 
 ## 📝 Key Insights
 
